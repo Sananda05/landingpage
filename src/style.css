@@ -1,0 +1,22 @@
+:root {
+    --text-color: #000; /* Default color for light mode */
+    --background-color: #fff; /* Default color for light mode */
+  }
+  
+ 
+  
+  body {
+    color: var(--text-color);
+    background-color: var(--background-color);
+  }
+
+  .header{
+    color: var(--text-color);
+    background-color: var(--background-color);
+  }
+
+  .paragraph{
+    color: var(--text-color);
+    background-color: var(--background-color);
+    font-size: 54px;
+  }
